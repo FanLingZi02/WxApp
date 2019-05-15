@@ -1,7 +1,0 @@
-{
-  "enablePullDownRefresh": true,
-  "navigationBarTitleText": "trending",
-  "usingComponents": {
-    "trend": "../../components/trend-item/trend-item"
-  }
-}

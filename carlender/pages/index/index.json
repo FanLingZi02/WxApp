@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "Carlendar": "../../components/carlendar/carlendar"
+  }
+}
