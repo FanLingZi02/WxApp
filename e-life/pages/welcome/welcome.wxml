@@ -1,0 +1,5 @@
+<view class='wrap'>
+<!-- bindtap事件在js里面进行文件响应 -->
+  <image class="welcomeImg" src="../../images/timg.jpg" bindtap='clickLogo'/> 
+</view>
+
